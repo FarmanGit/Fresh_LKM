@@ -1,0 +1,1 @@
+cmd_/home/farman/workspace/runtime-DevTesting1/LKM/Debug/LKM.o := /home/farman/timesys/beaglebone_black/toolchain/bin/armv7l-timesys-linux-gnueabihf-ld    -r -o /home/farman/workspace/runtime-DevTesting1/LKM/Debug/LKM.o /home/farman/workspace/runtime-DevTesting1/LKM/Debug/main.o 
